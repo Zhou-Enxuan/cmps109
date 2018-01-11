@@ -1,0 +1,12 @@
+HEADER.html:  HTML document, ASCII text
+Makefile:     ASCII text
+Makefile.dep: ASCII text
+RCS:          directory
+file.out:     empty
+hello:        ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.32, BuildID[sha1]=683a7b1f0ba6eb04469e920b6978f5b4347c16dd, not stripped
+hello.cpp:    C source, ASCII text
+hello.h:      C++ source, ASCII text
+hello.o:      ELF 64-bit LSB relocatable, x86-64, version 1 (SYSV), not stripped
+main.cpp:     C source, ASCII text
+main.o:       ELF 64-bit LSB relocatable, x86-64, version 1 (SYSV), not stripped
+test.out:     ASCII text
